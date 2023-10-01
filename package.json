@@ -1,11 +1,11 @@
 {
-  "name": "student-management-system",
+  "name": "student-management-app",
   "version": "1.0.0",
   "description": "Simple Student Management System",
   "main": "./dist/index.js",
   "type": "module",
   "bin": {
-    "student-management-system": "./dist/index.js"
+    "student-management-app": "./dist/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
